@@ -1,0 +1,28 @@
+C:\Documents and Settings\pjs9486\My Documents\Visual Studio 2008\Projects\CommunicateWithArduino\CommunicateWithArduino\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pjs9486\My Documents\Visual Studio 2008\Projects\CommunicateWithArduino\CommunicateWithArduino\obj\Debug\CommunicateWithArduino.Form1.resources
+C:\Documents and Settings\pjs9486\My Documents\Visual Studio 2008\Projects\CommunicateWithArduino\CommunicateWithArduino\obj\Debug\CommunicateWithArduino.Properties.Resources.resources
+C:\Documents and Settings\pjs9486\My Documents\Visual Studio 2008\Projects\CommunicateWithArduino\CommunicateWithArduino\obj\Debug\CommunicateWithArduino.csproj.GenerateResource.Cache
+C:\Documents and Settings\pjs9486\My Documents\Visual Studio 2008\Projects\CommunicateWithArduino\CommunicateWithArduino\bin\Debug\CommunicateWithArduino.exe
+C:\Documents and Settings\pjs9486\My Documents\Visual Studio 2008\Projects\CommunicateWithArduino\CommunicateWithArduino\bin\Debug\CommunicateWithArduino.pdb
+C:\Documents and Settings\pjs9486\My Documents\Visual Studio 2008\Projects\CommunicateWithArduino\CommunicateWithArduino\obj\Debug\CommunicateWithArduino.exe
+C:\Documents and Settings\pjs9486\My Documents\Visual Studio 2008\Projects\CommunicateWithArduino\CommunicateWithArduino\obj\Debug\CommunicateWithArduino.pdb
+C:\Users\Not a Robot\Documents\Study Materials\Arduino\Sketches\Sensor Comms\PaulS' Code\CommunicateWithArduino\obj\Debug\CommunicateWithArduino.exe
+C:\Users\Not a Robot\Documents\Study Materials\Arduino\Sketches\Sensor Comms\PaulS' Code\CommunicateWithArduino\obj\Debug\CommunicateWithArduino.pdb
+C:\Users\Not a Robot\Documents\Study Materials\Arduino\Sketches\Sensor Comms\PaulS' Code\CommunicateWithArduino\bin\Debug\CommunicateWithArduino.exe
+C:\Users\Not a Robot\Documents\Study Materials\Arduino\Sketches\Sensor Comms\PaulS' Code\CommunicateWithArduino\bin\Debug\CommunicateWithArduino.pdb
+C:\Users\Not a Robot\Documents\Study Materials\Arduino\Sketches\Sensor Comms\PaulS' Code\CommunicateWithArduino\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Not a Robot\Documents\Study Materials\Arduino\Sketches\Sensor Comms\PaulS' Code\CommunicateWithArduino\obj\Debug\CommunicateWithArduino.Form1.resources
+C:\Users\Not a Robot\Documents\Study Materials\Arduino\Sketches\Sensor Comms\PaulS' Code\CommunicateWithArduino\obj\Debug\CommunicateWithArduino.Properties.Resources.resources
+C:\Users\Not a Robot\Documents\Study Materials\Arduino\Sketches\Sensor Comms\PaulS' Code\CommunicateWithArduino\obj\Debug\ResGen.read.1.tlog
+C:\Users\Not a Robot\Documents\Study Materials\Arduino\Sketches\Sensor Comms\PaulS' Code\CommunicateWithArduino\obj\Debug\ResGen.write.1.tlog
+C:\Users\test\Desktop\Sensor Comms\PaulS' Code\CommunicateWithArduino\bin\Debug\CommunicateWithArduino.exe
+C:\Users\test\Desktop\Sensor Comms\PaulS' Code\CommunicateWithArduino\bin\Debug\CommunicateWithArduino.pdb
+C:\Users\test\Desktop\Sensor Comms\PaulS' Code\CommunicateWithArduino\bin\Debug\System.Windows.Forms.DataVisualization.dll
+C:\Users\test\Desktop\Sensor Comms\PaulS' Code\CommunicateWithArduino\obj\Debug\CommunicateWithArduino.csprojAssemblyReference.cache
+C:\Users\test\Desktop\Sensor Comms\PaulS' Code\CommunicateWithArduino\obj\Debug\CommunicateWithArduino.Form1.resources
+C:\Users\test\Desktop\Sensor Comms\PaulS' Code\CommunicateWithArduino\obj\Debug\CommunicateWithArduino.Properties.Resources.resources
+C:\Users\test\Desktop\Sensor Comms\PaulS' Code\CommunicateWithArduino\obj\Debug\CommunicateWithArduino.csproj.GenerateResource.cache
+C:\Users\test\Desktop\Sensor Comms\PaulS' Code\CommunicateWithArduino\obj\Debug\CommunicateWithArduino.csproj.CoreCompileInputs.cache
+C:\Users\test\Desktop\Sensor Comms\PaulS' Code\CommunicateWithArduino\obj\Debug\CommunicateWithArduino.csproj.CopyComplete
+C:\Users\test\Desktop\Sensor Comms\PaulS' Code\CommunicateWithArduino\obj\Debug\CommunicateWithArduino.exe
+C:\Users\test\Desktop\Sensor Comms\PaulS' Code\CommunicateWithArduino\obj\Debug\CommunicateWithArduino.pdb
